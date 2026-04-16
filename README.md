@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-ashwinchavhan.com-0099ff?style=for-the-badge&logo=firefox&logoColor=white)](https://ashwinchavhan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Chavhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-chavhan)
-[![GitHub](https://img.shields.io/badge/GitHub-ashwinchavhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinchavhan)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-ashwinchavhan.com-0099ff?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-io.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Chavhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-chavhan-b0317b2a8)
+[![GitHub](https://img.shields.io/badge/GitHub-ashwinchavhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-Chavhan)
 [![Email](https://img.shields.io/badge/Email-ashwinc763%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinc763@gmail.com)
 
 **A modern, interactive full-stack portfolio website showcasing professional web development expertise with MERN stack.**
@@ -284,8 +284,8 @@ portfolio/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/ashwinchavhan/portfolio.git
-cd portfolio/server
+git clone https://github.com/Ashwin-Chavhan/Portfolio-Website.git
+cd Portfolio-Website/server
 ```
 
 2. **Install dependencies:**
@@ -504,13 +504,13 @@ A comprehensive web-based learning platform combining educational content manage
 
 **Technologies:**
 
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB
+- Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
+- Backend: PHP, XAMPP Server
+- Database: MY SQL
 - Authentication: JWT
 
-**Live Demo:** [Coming Soon]
-**GitHub:** [View Repository](https://github.com/ashwinchavhan/elearning-platform)
+**Live Demo:** [https://github.com/Ashwin-Chavhan/E-Learn-Avenue]
+**GitHub:** [View Repository](https://github.com/Ashwin-Chavhan/E-Learn-Avenue)
 
 ---
 
@@ -562,8 +562,8 @@ A modern, fully functional portfolio website showcasing full-stack development c
 - Backend: Node.js, Express, MongoDB
 - Deployment: Vercel, Render.com, MongoDB Atlas
 
-**Live Demo:** [ashwinchavhan.com](https://ashwinchavhan.com)
-**GitHub:** [View Repository](https://github.com/ashwinchavhan/portfolio)
+**Live Demo:** [ashwinchavhan.com](https://portfolio-website-io.netlify.app/)
+**GitHub:** [View Repository](https://github.com/Ashwin-Chavhan/Portfolio-Website)
 
 ---
 
@@ -629,14 +629,14 @@ SEO: 98/100
 ### Frontend Deployment (Vercel)
 
 ```bash
-# Deploy with Vercel CLI
-vercel
+# Deploy with Netlify
+Netlify
 
-# Or connect GitHub repository to Vercel dashboard
+# Or connect GitHub repository to Netlify dashboard
 # Automatic deployments on push to main branch
 ```
 
-**Live URL:** [ashwinchavhan.com](https://ashwinchavhan.com)
+**Live URL:** [ashwinchavhan.com](https://portfolio-website-io.netlify.app/)
 
 ### Backend Deployment (Render.com)
 
@@ -696,9 +696,9 @@ I'm open to opportunities and collaborations!
 
 - 📧 **Email:** [ashwinc763@gmail.com](mailto:ashwinc763@gmail.com)
 - 📱 **Phone:** +91 9284336654
-- 🔗 **LinkedIn:** [linkedin.com/in/ashwin-chavhan](https://linkedin.com/in/ashwin-chavhan)
-- 💻 **GitHub:** [github.com/ashwinchavhan](https://github.com/ashwinchavhan)
-- 🌐 **Portfolio:** [ashwinchavhan.com](https://ashwinchavhan.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/ashwin-chavhan](https://www.linkedin.com/in/ashwin-chavhan-b0317b2a8)
+- 💻 **GitHub:** [github.com/ashwinchavhan](https://github.com/Ashwin-Chavhan)
+- 🌐 **Portfolio:** [ashwinchavhan.com](https://portfolio-website-io.netlify.app/)
 
 ---
 
